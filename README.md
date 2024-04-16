@@ -36,3 +36,7 @@
 #### Primeiro diagrama
 
 !["Diagrama casa oliveira"](diagrama.png)
+
+#### Esquema de tabelas para o banco de dados 
+
+!["Esquema Casa Oliveira"](EsquemaCasaOliveira.png)
